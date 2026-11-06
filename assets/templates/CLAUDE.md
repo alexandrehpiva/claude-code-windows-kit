@@ -29,7 +29,8 @@ Instruções permanentes para o Claude neste Cofre. Edite à vontade: este arqui
 | `job-description-generator` | Escrever ou revisar a descrição de uma vaga |
 | `resume-screener` | Triar currículos contra os requisitos de uma vaga |
 | `cv-ats-fit` | Avaliar a aderência de um currículo a uma vaga (sem inventar nota de ATS) |
-| `personal-cv` | Revisar o currículo e checar se o texto soa "gerado por IA" |
+| `personal-cv` | Quem busca emprego: revisar o próprio currículo e checar se o texto soa "gerado por IA" |
+| `linkedin-recruiter` | Quem recruta: busca no LinkedIn Recruiter (Boolean, filtros, Spotlights), InMail, projetos, Talent Insights e avaliação de perfis |
 | `personal-job-interviews` | Pesquisar a empresa e montar o briefing de uma entrevista |
 | `interview-scheduler` | Montar o processo e o painel de entrevistas |
 | `onboarding-guide` | Planejar a integração de quem está entrando |

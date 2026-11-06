@@ -69,7 +69,8 @@ A chave pode vir da variável de ambiente `CLAUDE_KIT_API_KEY` (evita digitar). 
 | `engagement-analyzer` | Analisar pesquisa de engajamento | clawfu-skills (MIT) |
 | `hr-workflows` | Fluxos de RH do recrutamento ao desligamento | claude-office-skills (MIT), adaptada |
 | `cv-ats-fit` | Aderência de currículo a uma vaga (sem inventar "nota de ATS") | autoria do kit |
-| `personal-cv` | Revisão de currículo e checagem de "cheiro de IA" no texto | autoria do kit |
+| `personal-cv` | Para quem busca emprego: revisão do próprio currículo e checagem de "cheiro de IA" | autoria do kit |
+| `linkedin-recruiter` | Para quem recruta: busca no LinkedIn Recruiter (Boolean, filtros, Spotlights, IA), InMail e a regra dos 13%, projetos e pipeline, Talent Insights e avaliação de perfis — baseada na ajuda oficial do LinkedIn, com fontes e datas em `SOURCES.md` | autoria do kit |
 | `personal-job-interviews` | Pesquisa da empresa e briefing de entrevista | autoria do kit |
 | `grill-me` | Entrevista implacável sobre um plano até fechar a decisão | autoria do kit |
 | `write-a-skill` | Cria skills novas dentro do Cofre | autoria do kit |
